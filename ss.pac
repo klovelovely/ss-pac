@@ -4,6 +4,7 @@
 var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var domains = {
+  "||github-cloud.s3.amazonaws.com",
   "4shared.com": 1, 
   "gimpshop.com": 1, 
   "bitcointalk.org": 1, 
